@@ -3,4 +3,4 @@ Financial analysis, algorithmic trading, portfolio optimization examples with Py
 
 DISCLAIMER - No Investment Advice Provided
 
-YASAL UYARI - Bu sayfada yer alan hiçbir şey yatırım tavsiyesi değildir
+YASAL UYARI - Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir.
