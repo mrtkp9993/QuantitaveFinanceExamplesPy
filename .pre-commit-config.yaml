@@ -1,0 +1,5 @@
+- repo: https://github.com/nbQA-dev/nbQA
+  rev: 1.1.0
+  hooks:
+    - id: nbqa-black
+    - id: nbqa-isort
