@@ -6,6 +6,10 @@ DISCLAIMER - No Investment Advice Provided
 
 YASAL UYARI - Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir.
 
+## Requirements
+
+Please install requirements from `requirements.txt`
+
 ## References (for both methods and some code fragments)
 
 * Hilpisch, Y. J. (2021). Python for algorithmic trading: From idea to cloud deployment. O'Reilly.
