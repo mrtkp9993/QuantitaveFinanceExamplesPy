@@ -56,3 +56,7 @@ Yang - Zang estimator:       0.0016329397449278639
 ### VWAP 
 
 ![07_01](imgs/07_01.svg)
+
+### Technical Indicators
+
+![08_01](imgs/08_01.png)
