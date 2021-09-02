@@ -6,6 +6,19 @@ DISCLAIMER - No Investment Advice Provided
 
 YASAL UYARI - Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım danışmanlığı kapsamında değildir.
 
+## References (for both methods and some code fragments)
+
+* Hilpisch, Y. J. (2021). Python for algorithmic trading: From idea to cloud deployment. O'Reilly.
+* Jansen, S. (2020). Machine learning for algorithmic trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with python. Packt Publishing.
+* Pik, J., &amp; Ghosh, S. (2021). Hands-on financial trading with python. Packt Publishing.
+* Velu, R. P., Hardy, M., &amp; Nehren, D. (2020). Algorithmic trading and quantitative strategies. CRC Press, Taylor &amp; Francis Group.
+
+## Contact
+
+Murat Koptur, [LinkedIn](https://www.linkedin.com/in/muratkoptur/)
+
+Email: [muratkoptur@yandex.com](mailto:muratkoptur@yandex.com?subject=QuantitativeFinanceGithub)
+
 ## Examples
 
 ### Calculation Alpha and Beta factors
