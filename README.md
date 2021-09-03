@@ -1,6 +1,6 @@
 # QuantitaveFinanceExamplesPy
 
-Financial analysis, algorithmic trading, portfolio optimization examples with Python 
+Financial analysis, algorithmic trading, portfolio optimization examples with Python
 
 DISCLAIMER - No Investment Advice Provided
 
@@ -8,7 +8,7 @@ YASAL UYARI - Burada yer alan yatırım bilgi, yorum ve tavsiyeleri yatırım da
 
 ## Requirements
 
-Please install requirements from `requirements.txt`
+Please install requirements from `requirements.txt`.
 
 ## References (for both methods and some code fragments)
 
@@ -31,7 +31,7 @@ Email: [muratkoptur@yandex.com](mailto:muratkoptur@yandex.com?subject=Quantitati
 
 ### Cointegration
 
-```
+```text
 ARCLK.IS and TOASO.IS has cointegration, p-value: 0.04903369798110527
 AYGAZ.IS and KCHOL.IS has cointegration, p-value: 0.007029900251131765
 FROTO.IS and MAALT.IS has cointegration, p-value: 0.015757028038897322
@@ -52,10 +52,9 @@ YKGYO.IS and TTRAK.IS has cointegration, p-value: 0.027200620035757236
 
 ![03_01](imgs/03_01.png)
 
-
 ### Volatility calculations
 
-```
+```text
 Std.Dev. Estimator:          0.16988244687319595
 Classical Estimator:         0.0013349197336295028
 Rogers - Satchell Estimator: 0.0009643228704150725
@@ -70,10 +69,14 @@ Yang - Zang estimator:       0.0016329397449278639
 
 ![06_01](imgs/06_01.png)
 
-### VWAP 
+### VWAP
 
 ![07_01](imgs/07_01.svg)
 
 ### Technical Indicators
 
 ![08_01](imgs/08_01.png)
+
+### Denoising Data
+
+![09_01](imgs/09_01.png)
