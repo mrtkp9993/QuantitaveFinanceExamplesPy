@@ -85,3 +85,7 @@ Yang - Zang estimator:       0.0016329397449278639
 
 ![10_01](imgs/10_01.png)
 ![10_02](imgs/10_02.png)
+
+### Backtesting
+
+![11_01](imgs/11_01.png)
