@@ -25,6 +25,8 @@ Email: [muratkoptur@yandex.com](mailto:muratkoptur@yandex.com?subject=Quantitati
 
 ## Examples
 
+**Note**: In all examples, assumed the risk-free rate is zero.
+
 ### Calculation Alpha and Beta factors
 
 ![01_01](imgs/01_01.png)
