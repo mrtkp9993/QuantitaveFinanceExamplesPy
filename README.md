@@ -1,7 +1,5 @@
 # QuantitaveFinanceExamplesPy
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrtkp9993/QuantitaveFinanceExamplesPy/HEAD)
-
 Financial analysis, algorithmic trading, portfolio optimization examples with Python
 
 DISCLAIMER - No Investment Advice Provided
