@@ -16,6 +16,7 @@ Please install requirements from `requirements.txt`.
 * Jansen, S. (2020). Machine learning for algorithmic trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with python. Packt Publishing.
 * Pik, J., &amp; Ghosh, S. (2021). Hands-on financial trading with python. Packt Publishing.
 * Velu, R. P., Hardy, M., &amp; Nehren, D. (2020). Algorithmic trading and quantitative strategies. CRC Press, Taylor &amp; Francis Group.
+* Brugiere, P. (2021). Quantitative portfolio management: With applications in python. Springer Nature. 
 
 ## Contact
 
@@ -91,3 +92,7 @@ Yang - Zang estimator:       0.0016329397449278639
 ### Backtesting
 
 ![11_01](imgs/11_01.png)
+
+### Pairs Trading
+
+![12_02](imgs/12_02.png)
