@@ -17,6 +17,8 @@ Please install requirements from `requirements.txt`.
 * Pik, J., &amp; Ghosh, S. (2021). Hands-on financial trading with python. Packt Publishing.
 * Velu, R. P., Hardy, M., &amp; Nehren, D. (2020). Algorithmic trading and quantitative strategies. CRC Press, Taylor &amp; Francis Group.
 * Brugiere, P. (2021). Quantitative portfolio management: With applications in python. Springer Nature. 
+* Dowd, K. (2007). Measuring market risk. John Wiley & Sons.
+* Hilpisch, Y. J. (2020). Artificial Intelligence in Finance. O'Reilly.
 
 ## Contact
 
@@ -96,3 +98,11 @@ Yang - Zang estimator:       0.0016329397449278639
 ### Pairs Trading
 
 ![12_02](imgs/12_02.png)
+
+### Modern Portfolio Theory - Efficient Frontier
+
+![13_01](imgs/13_01.png)
+
+### Value-At-Risk - Expected Shortfall
+
+![14_01](imgs/14_01.png)
